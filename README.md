@@ -18,4 +18,6 @@ It calculates the following properties:
     5. Closeness Centrality: Measures closeness of a node to all other nodes in the network.
     6. Modularity: Evaluates division of nodes into distinct groups.
     7. Network Resilience: Measures network's robustness to node removal.
+    8. Visualization
+    
 
