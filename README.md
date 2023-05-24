@@ -4,10 +4,10 @@
 
 Code performs Network Analysis on different Network Topologies with a variable number of nodes. The following network topologies are used: 
 
-1. Fully-Connected Topology
-2. Ring Topology
-3. Star Topology 
-4. Binary Tree Topology
+    1. Fully-Connected Topology
+    2. Ring Topology
+    3. Star Topology 
+    4. Binary Tree Topology
 
 It calculates the following properties:
 
