@@ -2,7 +2,7 @@
  Integrated Network Protocols Evaluation Framework
 
 
-Code performs Network Analysis on a Fully Connected and Ring Network Topology with a variable number of nodes.
+Code performs Network Analysis on a Fully Connected, Ring and Star Network Topologies with a variable number of nodes.
 
 It calculates the following properties:
 
