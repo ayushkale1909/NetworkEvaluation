@@ -8,6 +8,9 @@ Code performs Network Analysis on different Network Topologies with a variable n
     2. Ring Topology
     3. Star Topology 
     4. Binary Tree Topology
+    5. Bus Topology 
+    6. Square Grid Topology 
+    7. Variable Grid Topology 
 
 It calculates the following properties:
 
