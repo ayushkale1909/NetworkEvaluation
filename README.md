@@ -2,7 +2,9 @@
  Integrated Network Protocols Evaluation Framework
 
 
-Code performs Network Analysis on different Network Topologies with a variable number of nodes. The following network topologies are used: 
+1. Simulation of Distance Vector Routing Algorithm for the following Network Topologies, specifically the Bellman-Ford algorithm, is used to calculate the optimal paths, Routing Table for each node, Convergence Time and Routing Overhead. 
+
+The following network topologies are used: 
 
     1. Fully-Connected Topology
     2. Ring Topology
@@ -12,7 +14,9 @@ Code performs Network Analysis on different Network Topologies with a variable n
     6. Square Grid Topology 
     7. Variable Grid Topology 
 
-It calculates the following properties:
+2. Network Analysis on different Network Topologies with a variable number of nodes. 
+
+The following metrics are calculated for each Network Topology : 
 
     1. Degree Centrality: Number of connections each node has.
     2. Shortest Paths: To Calculate the shortest path between all pairs of nodes.
