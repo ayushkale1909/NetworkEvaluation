@@ -27,4 +27,8 @@ The following metrics are calculated for each Network Topology :
     7. Network Resilience: Measures network's robustness to node removal.
     8. Visualization
     
+    
+3. Simulation of ALOHA MAC Protocol 
+    1. Calculate Throuugput and Average Delay 
+    2. Simmulates Packet Transmission using nnumber of packets, load, fixed tranmission time, start and end of service and arraival time. 
 
