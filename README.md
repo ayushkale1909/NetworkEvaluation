@@ -33,7 +33,8 @@ The following metrics are calculated for each Network Topology :
     2. Simmulates Packet Transmission using nnumber of packets, load, fixed tranmission time, start and end of service and arraival time. 
 
 4. Spanning Tree Protocol Simulation 
-    Calculate Spanning tree for network of different and random topologies 
+             
+       Calculate Spanning tree for network of different and random topologies 
     
     
       ![my-img](https://github.com/ayushkale1909/NetworkEvaluation/blob/main/Spanning%20Tree%20Protocol/stp.jpg)
