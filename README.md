@@ -34,4 +34,4 @@ The following metrics are calculated for each Network Topology :
 
 4. Spanning Tree Protocol Simulation 
     Calculate Spanning tree for network of different and random topologies 
-    ![my-img](https://github.com/ayushkale1909/NetworkEvaluation/tree/main/Spanning%20Tree%20Protocol)
+    ![my-img](https://github.com/ayushkale1909/NetworkEvaluation/blob/main/Spanning%20Tree%20Protocol/stp.jpg)
