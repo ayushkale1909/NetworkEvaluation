@@ -19,7 +19,9 @@ The following network topologies are used:
 
  ![my-img4](https://github.com/ayushkale1909/NetworkEvaluation/blob/main/star_network_topology_25_nodes.jpg)
 
+ ![my-img5](https://github.com/ayushkale1909/NetworkEvaluation/blob/main/tree_network_topology_25_nodes.jpg)
 
+ 
 ## 2. Network Analysis on different Network Topologies with a variable number of nodes. 
 
 The following metrics are calculated for each Network Topology : 
