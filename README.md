@@ -40,6 +40,6 @@ The following metrics are calculated for each Network Topology :
 ![my-img](https://github.com/ayushkale1909/NetworkEvaluation/blob/main/Spanning%20Tree%20Protocol/stp.jpg)
 
 
-## 5. Bluetooth Mesh Network for different topologies 
+## 5. Bluetooth Mesh Network for different Network Topologies 
    
 ![my-img2](https://github.com/ayushkale1909/NetworkEvaluation/blob/main/Bluetooth%20Mesh%20Network/ble_ring.jpg)
