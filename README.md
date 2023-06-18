@@ -37,9 +37,9 @@ The following metrics are calculated for each Network Topology :
        Calculate Spanning tree for network of different and random network topologies 
     
     
-      ![my-img](https://github.com/ayushkale1909/NetworkEvaluation/blob/main/Spanning%20Tree%20Protocol/stp.jpg)
+     ![my-img](https://github.com/ayushkale1909/NetworkEvaluation/blob/main/Spanning%20Tree%20Protocol/stp.jpg)
 
 
 ## 5. Bluetooth Mesh Network
    
-      ![my-img2](https://github.com/ayushkale1909/NetworkEvaluation/blob/main/Bluetooth%20Mesh%20Network/ble_ring.jpg)
+     ![my-img2](https://github.com/ayushkale1909/NetworkEvaluation/blob/main/Bluetooth%20Mesh%20Network/ble_ring.jpg)
