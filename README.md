@@ -30,7 +30,8 @@ The following metrics are calculated for each Network Topology :
     
 ## 3. Simulation of ALOHA MAC Protocol 
     1. Calculate Throuugput and Average Delay 
-    2. Simmulates Packet Transmission using nnumber of packets, load, fixed tranmission time, start and end of service and arraival time. 
+    2. Simmulates Packet Transmission using nnumber of packets, load, fixed tranmission time, start and end of service 
+       and arraival time. 
 
 ## 4. Spanning Tree Protocol Simulation 
              
