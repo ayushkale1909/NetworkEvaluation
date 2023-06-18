@@ -2,7 +2,7 @@
  Integrated Network Protocols Evaluation Framework
 
 
-## 1. Simulation of Distance Vector Routing Algorithm for the following Network Topologies, specifically the Bellman-Ford algorithm, is used to calculate the optimal paths, Routing Table for each node, Convergence Time and Routing Overhead. 
+## 1. Simulation of Distance Vector Routing Algorithm for the following Network Topologies, specifically the Bellman-Ford algorithm, is used to calculate the optimal paths, Routing Table for Each Node, Convergence Time and Routing Overhead. 
 
 The following network topologies are used: 
 
