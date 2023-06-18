@@ -26,8 +26,11 @@ The following metrics are calculated for each Network Topology :
     6. Modularity: Evaluates division of nodes into distinct groups.
     7. Network Resilience: Measures network's robustness to node removal.
     8. Visualization
-    
-    
+
+
+  ![my-img3](https://github.com/ayushkale1909/NetworkEvaluation/blob/main/25nodes.jpg)
+
+  
 ## 3. Simulation of ALOHA MAC Protocol 
     1. Calculate Throuugput and Average Delay 
     2. Simmulates Packet Transmission using nnumber of packets, load, fixed tranmission time, start and end of service 
